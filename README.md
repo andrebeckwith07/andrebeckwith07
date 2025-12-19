@@ -2,4 +2,4 @@
 
 ## Projects
 
-- [Google Cybersecurity Portfolio](https://github.com/andrebeckwith07/google-cybersecurity-portfolio)
+- [Google Cybersecurity Portfolio](https://github.com/andrebeckwith07/Google-Cybersecurity-Professional-Certificate)
