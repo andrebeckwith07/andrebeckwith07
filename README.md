@@ -8,4 +8,4 @@ I’m an aspiring cybersecurity analyst building hands-on projects and documenti
 
 ## Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/andre-beckwith-jr-b557b4399)
+- [LinkedIn] (https://www.linkedin.com/in/andre-beckwith-jr-b557b4399/)
